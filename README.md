@@ -1,2 +1,3 @@
 # terra-linl
-Linkedin Learning Course 2h
+Linkedin Learning Course
+for Terraform
